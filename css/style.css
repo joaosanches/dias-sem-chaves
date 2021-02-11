@@ -1,0 +1,8 @@
+body {
+  background-image: url('../images/chaves.jpg');
+  background-blend-mode: luminosity, multiply;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  color: whitesmoke;
+}
