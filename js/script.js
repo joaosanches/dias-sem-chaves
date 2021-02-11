@@ -1,5 +1,5 @@
 const main = document.getElementById('main')
-const cardHTML = `<h3 class="center" id="contador"></h3>`
+const cardHTML = `<h1 id="contador"></h1>`
 main.innerHTML = cardHTML
 
 document.ready = function(){
