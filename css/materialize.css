@@ -2352,6 +2352,7 @@ sup {
 audio,
 video {
   display: inline-block;
+  outline: none;
 }
 
 /**
